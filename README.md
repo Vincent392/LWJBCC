@@ -22,3 +22,5 @@ it should also work for JFX (JavaFX) but I haven't tested it yet.
 
 Also considering .bat files are just two clicks and you can view the source code I've put this under GPLV3
 all I do ask though is to credit me.
+
+also heres the [jar](https://github.com/Vincent392/LWJBCC/releases/download/Jardemo/LWJBCC-Demo.jar) that was made
