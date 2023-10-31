@@ -8,7 +8,7 @@ How large is it?
 Do I need A JDK installed?
 yes, you need a JDK installed since this is just a front end for javac
 where do I download it?
-the releases tab or the code button and extracting the folder
+the releases tab or the code button and extracting the .zip
 ### Info
 LWJBCC is a Lightweight Java Batch Code Compiler and acts as a batchfile frontend to javac and jar to make .jars
 
@@ -24,3 +24,17 @@ Also considering .bat files are just two clicks and you can view the source code
 all I do ask though is to credit me.
 
 also here's the [jar](https://github.com/Vincent392/LWJBCC/releases/download/Jardemo/LWJBCC-Demo.jar) that was made
+
+### Limitations
+unfortunately this 3.01KB-.bat-file-that's-a-fronted-for-javac has it's Limitations:
+- no package support, yet.
+- you need a JDK for it to work (General rule of thumb for java compilers)
+- it spits out the .class files into the same directory
+- really just a proof of concept
+
+it does however have it's advantages
+
+### Advantages
+- can work with ANY version of java, that's right you can use a Windows 98 SE PC to compile a Java 3 program.
+- click and run, no need for a .cfg file.
+- easy to edit, cause it's a batch file you can just open the file in notepad, edit it and save it as a .bat
