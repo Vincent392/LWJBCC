@@ -26,7 +26,7 @@ all I do ask though is to credit me.
 also here's the [jar](https://github.com/Vincent392/LWJBCC/releases/download/Jardemo/LWJBCC-Demo.jar) that was made
 
 ### Limitations
-unfortunately this 3.01KB-.bat-file-that's-a-fronted-for-javac has it's Limitations:
+unfortunately this 3.01KB-batch-file-that's-a-fronted-for-javac has it's Limitations:
 - no package support, yet.
 - you need a JDK for it to work (General rule of thumb for java compilers)
 - it spits out the .class files into the same directory
