@@ -2,13 +2,21 @@
 ## Lightweight Java Batch Code Compiler
 ### QUESTIONS
 So, what is it?
+
 A lightweight Java batch compiler
+
 How large is it?
+
 3.01 KB
+
 Do I need A JDK installed?
+
 yes, you need a JDK installed since this is just a front end for javac
+
 where do I download it?
+
 the releases tab or the code button and extracting the .zip
+
 ### Info
 LWJBCC is a Lightweight Java Batch Code Compiler and acts as a batchfile frontend to javac and jar to make .jars
 
