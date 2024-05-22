@@ -17,6 +17,9 @@ where do I download it?
 
 the releases tab or the code button and extracting the .zip
 
+Can I compile a Minecraft mod with this?
+maybe????
+
 ### Info
 LWJBCC is a Lightweight Java Batch Code Compiler and acts as a batchfile frontend to javac and jar to make .jars
 
